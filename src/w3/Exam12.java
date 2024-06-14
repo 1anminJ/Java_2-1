@@ -1,3 +1,5 @@
+package w3;
+
 public class Exam12 {
     public static void main(String args[]){
         iCat cat = new iCat();

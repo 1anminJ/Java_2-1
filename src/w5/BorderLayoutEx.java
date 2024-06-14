@@ -1,3 +1,5 @@
+package w5;
+
 import javax.swing.*;
 import java.awt.*;
 

@@ -1,3 +1,5 @@
+package w3;
+
 public class Automobile extends Car{
     private int seatNum;
 

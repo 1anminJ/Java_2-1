@@ -1,3 +1,5 @@
+package w10;
+
 public class TimerRuunable implements Runnable{
     int n = 0;
     @Override

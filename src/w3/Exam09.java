@@ -1,3 +1,5 @@
+package w3;
+
 public class Exam09 {
     public static void main(String args[]){
         Automobile auto = new Automobile();

@@ -1,3 +1,6 @@
+package w3;
+
+
 public interface iAnimal{
     void eat();
 }

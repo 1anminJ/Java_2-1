@@ -1,3 +1,5 @@
+package w10;
+
 public class SynchronizedEx {
     public static void main(String[] args){
         SharedBoard board = new SharedBoard();

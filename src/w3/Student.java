@@ -1,3 +1,5 @@
+package w3;
+
 public class Student {
     // 필드
     private String name, stuId, dept, tel;

@@ -1,3 +1,5 @@
+package w3;
+
 abstract public class Animal {
     String name;
     abstract void move();

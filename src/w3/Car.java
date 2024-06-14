@@ -1,3 +1,5 @@
+package w3;
+
 import java.nio.charset.CharacterCodingException;
 
 // 설계도, main() 없음

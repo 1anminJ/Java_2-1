@@ -1,3 +1,5 @@
+package w3;
+
 public class Phone {
     private String pName, company;
     private int price;

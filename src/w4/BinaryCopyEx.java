@@ -1,3 +1,6 @@
+package w4;
+
+
 import java.io.*;
 
 public class BinaryCopyEx {

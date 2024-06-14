@@ -1,3 +1,5 @@
+package w10;
+
 public class TimerThread extends Thread{
     int n = 0;
     @Override

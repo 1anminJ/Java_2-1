@@ -1,3 +1,5 @@
+package w11;
+
 interface MyFunction{
     public abstract int calc(int x, int y);
 }

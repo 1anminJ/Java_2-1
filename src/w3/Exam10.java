@@ -1,3 +1,5 @@
+package w3;
+
 public class Exam10 {
     public static void main(String args[]){
         Tiger tiger1 = new Tiger();

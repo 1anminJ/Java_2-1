@@ -6,8 +6,6 @@ import java.sql.*;
 import java.util.concurrent.BrokenBarrierException;
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
-import org.omg.CORBA.PUBLIC_MEMBER;
-import com.mysql.cj.xdevapi.Result;
 
 
 public class InputEx1 extends JFrame{
